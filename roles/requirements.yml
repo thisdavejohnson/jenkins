@@ -1,2 +1,3 @@
 # from galaxy
  - src: goozbach.jenkins
+ - src: goozbach.EPEL  
