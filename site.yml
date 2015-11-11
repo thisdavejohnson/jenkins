@@ -1,0 +1,9 @@
+---
+# This playbook deploys a simple Jenkins server.
+
+- hosts: all
+  user: root
+
+  roles:
+    - common
+    - jenkins
